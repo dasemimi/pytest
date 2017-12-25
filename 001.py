@@ -1,7 +1,8 @@
-#-*-coding:utf-8-*-
+﻿#-*-coding:utf-8-*-
 #from __future__ import division 擦这个不能用注释
 from __future__ import division
 
+#hello wolrd!
 #001
 print "hello py"
 print 'dasemimi'
